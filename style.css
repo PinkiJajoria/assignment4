@@ -83,14 +83,14 @@ margin-top: 120px;
 flex: 1;
 width: 100%;
   border-radius: 10px;
-  background-image: url(../assignment-4/pics/tanvi-first.jpeg);
+  background-image: url(pics/tanvi-first.jpeg);
   background-size:cover;
 }
 
 .top-left-div:hover{
   width: 100%;
   border-radius: 10px;
-  background-image: url(../assignment-4/pics/tanvi-second.jpeg);
+  background-image: url(pics/tanvi-second.jpeg);
   background-size:cover;
 }
 
@@ -117,13 +117,13 @@ width: 100%;
     /* border: 1px solid red; */
     flex: 1;
     width: 100%;
-    background-image: url(../assignment-4/pics/me-first.jpeg);
+    background-image: url(pics/me-first.jpeg);
     background-size: cover;
     border-radius: 10px;
 }
 
 .middle-left-div:hover{
-background-image: url(../assignment-4/pics/me-second.jpeg);
+background-image: url(pics/me-second.jpeg);
 background-size: cover;
 }
 
@@ -148,13 +148,13 @@ background-size: cover;
     /* border: 1px solid red; */
     flex:1 ;
     width: 100%;
-    background-image: url(../assignment-4/pics/tanvi-me-first.jpeg);
+    background-image: url(pics/tanvi-me-first.jpeg);
     background-size: cover;
     border-radius: 10px;
 }
 
 .bottom-left-div:hover{
-background-image: url(../assignment-4/pics/tanvi-me-second.jpeg);
+background-image: url(pics/tanvi-me-second.jpeg);
 background-size: cover;
 }
 
@@ -256,7 +256,7 @@ h5{
            width: 100%;
            aspect-ratio: 1;
            border-radius: 10px;
-           background-image: url(../assignment-4/pics/tanvi-first.jpeg);
+           background-image: url(pics/tanvi-first.jpeg);
            background-size:cover;
            
            
@@ -268,7 +268,7 @@ h5{
         .top-left-div:hover{
             width: 100%;
             border-radius: 10px;
-            background-image: url(../assignment-4/pics/tanvi-second.jpeg);
+            background-image: url(pics/tanvi-second.jpeg);
             background-size:cover;
             display: flex;
             flex-direction: column;
@@ -306,14 +306,14 @@ h5{
             flex: 1;
             width: 100%;
             aspect-ratio: 1;
-            background-image: url(../assignment-4/pics/tanvi-me-first.jpeg);
+            background-image: url(pics/tanvi-me-first.jpeg);
             background-size: cover;
             border-radius: 10px;
         }
     }
     @media only screen and (min-width:200px) and (max-width:950px){
         .middle-left-div:hover{
-            background-image: url(../assignment-4/pics/tanvi-me-second.jpeg);
+            background-image: url(pics/tanvi-me-second.jpeg);
             background-size: cover;
             }
     }
@@ -344,7 +344,7 @@ h5{
             flex:1 ;
             aspect-ratio: 1;
             width: 100%;
-            background-image: url(../assignment-4/pics/tanvi-me-first.jpeg);
+            background-image: url(pics/tanvi-me-first.jpeg);
             background-size: cover;
             border-radius: 10px;
         }
@@ -352,7 +352,7 @@ h5{
 
     @media only screen and (min-width:200px) and (max-width:950px){
         .bottom-left-div:hover{
-            background-image: url(../assignment-4/pics/tanvi-me-second.jpeg);
+            background-image: url(pics/tanvi-me-second.jpeg);
             background-size: cover;
             }
     }
