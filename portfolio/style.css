@@ -431,7 +431,7 @@ h1{
         
 }
 
-@media only screen and (min-width:200px) and (max-width:500px){
+@media only screen and (min-width:200px) and (max-width:400px){
     .top-right{
         position: relative;
     width: 400px;
@@ -445,7 +445,7 @@ h1{
 }
 
 
-@media only screen and (min-width:200px) and (max-width:500px){
+@media only screen and (min-width:200px) and (max-width:400px){
     .option{
         /* border: 1px solid red; */
         width: 30%;
@@ -457,7 +457,7 @@ h1{
     }
 
 
-    @media only screen and (min-width:200px) and (max-width:500px){
+    @media only screen and (min-width:200px) and (max-width:400px){
 
         .resume{
             text-decoration: none;
@@ -469,7 +469,7 @@ h1{
         }
 
 
-        @media only screen and (min-width:200px) and (max-width:500px){
+        @media only screen and (min-width:200px) and (max-width:400px){
             .btn-div{
                 /* border: 1px solid white; */
                 width: 300px;
@@ -482,7 +482,7 @@ h1{
         }
 
 
-        @media only screen and (min-width:200px) and (max-width:500px){
+        @media only screen and (min-width:200px) and (max-width:400px){
             .bottom-btn{
                 border: 1px solid #949494;
                 color: #949494;
