@@ -411,7 +411,7 @@ h5{
     }
     }
 
-    @media only screen and (min-width:200px) and (max-width:300px){
+    @media only screen and (min-width:200px) and (max-width:500px){
         .top-right{
             position: relative;
         width: 300px;
@@ -425,7 +425,7 @@ h5{
     }
 
 
-    @media only screen and (min-width:200px) and (max-width:950px){
+    @media only screen and (min-width:200px) and (max-width:500px){
         .option{
             /* border: 1px solid red; */
             width: 25%;
@@ -438,7 +438,7 @@ h5{
 
 
 
-        @media only screen and (min-width:200px) and (max-width:950px){
+        @media only screen and (min-width:200px) and (max-width:500px){
 
             .resume{
                 text-decoration: none;
@@ -450,5 +450,38 @@ h5{
             }
 
 
+            @media only screen and (min-width:200px) and (max-width:500px){
+                .btn-div{
+                    /* border: 1px solid white; */
+                    width: 300px;
+                    margin-left: 10%;
+                    margin-bottom: 80px;
+                    display: flex;
+                    justify-content: space-between; 
+                }
+    
+            }
+    
+    
+            @media only screen and (min-width:200px) and (max-width:500px){
+                .bottom-btn{
+                    border: 1px solid #949494;
+                    color: #949494;
+                    padding: 10px 18px;
+                    border-radius: 5px;
+                    font-family: sans-serif;
+                    font-size: 13px;
+                    }
+            }
 
 
+            @media only screen and (min-width:200px) and (max-width:500px){
+            .thanks-div{
+                display: flex;
+                justify-content: center;
+                margin-top: 200px;
+                font-size: 30px;
+                font-family: 'Playfair Display';
+                font-weight: 400;
+            }
+        }
