@@ -180,7 +180,7 @@ object-fit: cover;
 
 .first-img{
 width:100% ;
-aspect-ratio: 1;
+aspect-ratio: 1.7;
 border-radius: 10px;
 /* border: 1px solid greenyellow; */
 }
@@ -234,7 +234,7 @@ font-family: sans-serif;
 
 .second-img{
 width: 100%;
-aspect-ratio: 1;
+aspect-ratio: 1.7;
 border-radius: 10px;
 }
 
