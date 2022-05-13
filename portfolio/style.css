@@ -63,6 +63,10 @@ margin-right: 80px;
     border-radius: 8px;
 }
 
+.parent-text-div{
+    /* border: 1px solid red; */
+}
+
 h1{
     color: #333333;
     font-size: 79px;
@@ -74,7 +78,6 @@ h1{
 .text-deco1{
     text-decoration-color: #ad3539;
     color: inherit;
-    /* border-bottom: 3px solid #ad3539; */
 }
 
 .red-color{
@@ -84,6 +87,7 @@ h1{
 .pera-div{
     display: flex;
     width: 80%;
+    /* border: 1px solid green; */
 }
 
 p{
@@ -91,7 +95,8 @@ p{
     line-height: 48px;
     font-weight: 300;
     font-family: sans-serif;
-color: #444444;
+    color: #444444;
+    
 }
 
 .span-2{
@@ -150,7 +155,8 @@ border-radius: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-self: center;
+    align-items:flex-start ;
+    padding: 5%;
     justify-content: center;
     /* border: 1px solid red; */
 }
@@ -164,7 +170,7 @@ font-family: sans-serif;
 }
 
 .first-img-div{
-flex: 1;
+flex: 2;
 object-fit: cover;
 /* border: 1px solid blue; */
 }
@@ -208,8 +214,10 @@ flex: 1;
 /* border: 1px solid red; */
 display: flex;
 flex-direction: column;
-align-items: center;
+align-items: flex-start;
+padding: 5%;
 justify-content: center;
+
 }
 
 .pera-4{
@@ -221,7 +229,7 @@ font-family: sans-serif;
 }
 
 .second-div{
-    flex: 1;
+    flex: 2;
 }
 
 .second-img{
