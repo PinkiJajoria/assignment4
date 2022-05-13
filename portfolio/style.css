@@ -171,7 +171,7 @@ font-family: sans-serif;
 
 .first-img-div{
 flex: 2;
-object-fit: cover;
+/* object-fit: cover; */
 /* border: 1px solid blue; */
 }
 
@@ -180,7 +180,8 @@ object-fit: cover;
 
 .first-img{
 width:100% ;
-aspect-ratio: 1.7;
+/* aspect-ratio: 1.2; */
+object-fit: cover;
 border-radius: 10px;
 /* border: 1px solid greenyellow; */
 }
@@ -234,7 +235,9 @@ font-family: sans-serif;
 
 .second-img{
 width: 100%;
-aspect-ratio: 1.7;
+/* height: 100%; */
+/* aspect-ratio: 1.7; */
+object-fit: cover;
 border-radius: 10px;
 }
 
